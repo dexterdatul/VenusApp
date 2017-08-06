@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "830943486053",
+    "firebase_url": "https://venusapp-359c5.firebaseio.com",
+    "project_id": "venusapp-359c5",
+    "storage_bucket": "venusapp-359c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830943486053:android:c1e39d1f5e4f327b",
+        "android_client_info": {
+          "package_name": "android.com.venusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830943486053-is9p90e92o7nlf7506n65ktls65u11e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.com.venusapp",
+            "certificate_hash": "7c5905c5a4353605cdebbe09f9c831162a89d6af"
+          }
+        },
+        {
+          "client_id": "830943486053-4stgvrcdgu0idqnqorsomrmkr27q9ks4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz1tR0RUm9Taf8iqAcyBBfKo6q_VhvZxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830943486053-4stgvrcdgu0idqnqorsomrmkr27q9ks4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

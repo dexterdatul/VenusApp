@@ -1,0 +1,57 @@
+<resources>
+    //app name
+    <string name="app_name">Venus App</string>
+    <string name="app_name_about_us">ABOUT US</string>
+    <string name="app_name_doctors">DOCTORS</string>
+    <string name="app_name_services">SERVICES</string>
+    <string name="app_name_contact">CONTACT</string>
+    <string name="app_name_gallery">GALLERY</string>
+    <string name="app_name_login">LOGIN</string>
+    <string name="app_name_register">REGISTER</string>
+    <string name="app_name_appointment">APPOINTMENT</string>
+    <string name="app_name_offers">OFFERS</string>
+    <string name="app_name_verification">VERIFICATION</string>
+    <string name="app_name_send_message_to_doctor">SEND MESSAGE TO DOCTOR</string>
+
+    //main
+    <string name="lbl_offers">OFFERS</string>
+    <string name="lbl_about_us">About Us</string>
+    <string name="lbl_doctors">Doctors</string>
+    <string name="lbl_services">Services</string>
+    <string name="lbl_appointment">Appointment</string>
+    <string name="lbl_gallery">Gallery</string>
+    <string name="lbl_contact">Contact</string>
+
+    //register
+    <string name="lbl_name">Complete Name</string>
+    <string name="lbl_date_of_birth">DD/MM/YYYY</string>
+    <string name="lbl_age">Age</string>
+    <string name="lbl_gender">Gender</string>
+    <string name="lbl_nationality">Nationality</string>
+    <string name="lbl_religion">Religion</string>
+    <string name="lbl_address">Complete Address</string>
+    <string name="lbl_telephone">Telephone</string>
+    <string name="lbl_iqama">Iqama</string>
+    <string name="lbl_send_activation_code">SEND ACTIVATION CODE</string>
+    <string name="lbl_terms_uf_use">Terms of Use</string>
+
+    //login
+    <string name="lbl_file_number">File Number</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_cancel">Cancel</string>
+    <string name="lbl_submit">Submit</string>
+    <string name="lbl_register">REGISTER</string>
+    <string name="lbl_forgot_password">Forgot Password?</string>
+    <string name="lbl_please_register">Please Register to receive your Login Details</string>
+
+    //verification
+    <string name="lbl_verification_sent">A verification code has been sent to:</string>
+    <string name="lbl_enter_6_digit_code">Enter 6 Digit Code</string>
+    <string name="lbl_resend_code">Re-send Code</string>
+    <string name="lbl_create_my_account">CREATE MY ACCOUNT</string>
+
+    //send message to doctor
+    <string name="lbl_email">Email Address</string>
+    <string name="lbl_enter_your_Question_inquiry">Enter your Question/Inquiry</string>
+
+</resources>
