@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LoginActivity">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -23,10 +23,12 @@
         <activity android:name=".GalleryActivity" />
         <activity android:name=".ContactActivity" />
         <activity android:name=".OffersActivity" />
-        <activity android:name=".MainActivity" />
+        <activity android:name=".LoginActivity" />
         <activity android:name=".SendMessageActivity" />
         <activity android:name=".VerificationActivity" />
-        <activity android:name=".RegistrationActivity"></activity>
+        <activity android:name=".RegistrationActivity" />
+        <activity android:name=".DoctorsProfileActivity" />
+        <activity android:name=".ServiceListActivity"></activity>
     </application>
 
 </manifest>
