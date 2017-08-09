@@ -22,6 +22,7 @@ public class ServiceListCustomAdapter extends ArrayAdapter<String> {
     public ServiceListCustomAdapter(Activity context, String[] serviceItem) {
         super(context, R.layout.service_list_custom_row, serviceItem);
 
+        this.context = context;
         this.serviceItem = serviceItem;
     }
 

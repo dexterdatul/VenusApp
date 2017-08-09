@@ -10,7 +10,7 @@ import android.widget.ListView;
 public class ServiceListActivity extends AppCompatActivity {
 
     ListView serviceItemView;
-    String[] serviceItem = {"BOTOX", "BOTOX", "BOTOX", "BOTOX", "BOTOX"};
+    String[] serviceItem = {"BOTOX", "FILLER", "MESO", "CHENES", "ISKABECHE"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
